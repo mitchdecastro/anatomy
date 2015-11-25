@@ -7,3 +7,11 @@ White: #FFFFFF;
 Black: #1E1E1E;
 
 */
+
+.box {
+
+	height: 100px;
+	width: 100px;
+	background-color: black;
+
+}
