@@ -449,7 +449,8 @@ Black: #1E1E1E;
 
 	height: 100px;
 	width: 1280px;
-	background-color: #E6E8E6; 
+	background-color: #E6E8E6;
+	float: left; 
 }
 
 /* START ANIMATE.CSS */
