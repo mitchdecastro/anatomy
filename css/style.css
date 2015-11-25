@@ -462,6 +462,10 @@ Black: #1E1E1E;
 	float: left;
 }
 
+.word {
+  font-weight: 600;
+  text-align: center;
+}
 /* START ANIMATE.CSS */
 
 .animated {
