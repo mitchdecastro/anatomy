@@ -464,6 +464,6 @@ Black: #1E1E1E;
 
 .word {
   font-weight: 600;
-  text-align: center;
+  margin-left: 300px;
   float: left;
 }
