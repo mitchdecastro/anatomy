@@ -450,6 +450,16 @@ body {
 
 /* CHANGE GREYS TO OFF WHITE ORGANIC TONE */
 
+.system {
+  font-size: 24px;
+  margin-left: 50px;
+}
+
+.description {
+  margin-left: 50px;
+  width: 500px;
+}
+
 .nervous {
   margin-top: 700px;
 	height: 390px;
