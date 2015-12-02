@@ -490,18 +490,31 @@ body {
 }
 
 .respiratory {
-
+  height: 390px;
+  width: 890px;
+  border: 10px solid #000;
+  background-color: #E6E8E6;
+  float: left; 
 }
 
 .cardiovascular {
-
+  height: 390px;
+  width: 890px;
+  border: 10px solid #000;
+  background-color: #E6E8E6;
+  float: right;
 }
 
 .muscular {
-
+  
 }
 
 .digestive {
 
 }
 
+.urinary {
+
+}
+
+.
