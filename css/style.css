@@ -475,6 +475,7 @@ body {
   border: 10px solid #000;
 	background-color: #CED0CE;
 	float: right;
+  text-align: right;
 }
 
 .word {
