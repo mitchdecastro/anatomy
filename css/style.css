@@ -506,30 +506,58 @@ body {
 }
 
 .muscular {
-
+  height: 390px;
+  width: 890px;
+  border: 10px solid #000;
+  background-color: #E6E8E6;
+  float: left; 
 }
 
 .digestive {
-
+  height: 390px;
+  width: 890px;
+  border: 10px solid #000;
+  background-color: #E6E8E6;
+  float: right;
 }
 
 .urinary {
-
+  height: 390px;
+  width: 890px;
+  border: 10px solid #000;
+  background-color: #E6E8E6;
+  float: left; 
 }
 
 .reproductive {
-
+  height: 390px;
+  width: 890px;
+  border: 10px solid #000;
+  background-color: #E6E8E6;
+  float: right;
 }
 
 .immune {
-
+  height: 390px;
+  width: 890px;
+  border: 10px solid #000;
+  background-color: #E6E8E6;
+  float: left; 
 }
 
 .skeletal {
-
+  height: 390px;
+  width: 890px;
+  border: 10px solid #000;
+  background-color: #E6E8E6;
+  float: right;
 }
 
 .integumentary {
-
+  height: 390px;
+  width: 890px;
+  border: 10px solid #000;
+  background-color: #E6E8E6;
+  float: left; 
 }
 
