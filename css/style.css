@@ -463,11 +463,13 @@ body {
 .system-right {
   font-size: 24px;
   margin-right: 50px;
+  text-align: right;
 }
 
 .description-right {
   margin-right: 50px;
   width: 350px;
+  text-align: right;
 }
 
 .nervous {
