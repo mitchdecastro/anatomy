@@ -451,8 +451,8 @@ body {
 /* CHANGE GREYS TO OFF WHITE ORGANIC TONE */
 
 .overlay {
-
-	height: 500px;
+  margin-top: 700px;
+	height: 400px;
 	width: 1280px;
 	background-color: #E6E8E6;
 	float: left; 
@@ -460,7 +460,7 @@ body {
 
 .underlay {
 
-	height: 500px;
+	height: 400px;
 	width: 1280px;
 	background-color: #CED0CE;
 	float: left;
