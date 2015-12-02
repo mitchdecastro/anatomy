@@ -462,11 +462,11 @@ body {
 
 .system-right {
   font-size: 24px;
-  margin-left: 50px;
+  margin-right: 50px;
 }
 
 .description-right {
-  margin-left: 50px;
+  margin-right: 50px;
   width: 350px;
 }
 
