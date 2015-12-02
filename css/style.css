@@ -488,12 +488,3 @@ body {
 	background-color: #CED0CE;
 	float: right;
 }
-
-.word {
-  font-weight: 600;
-  margin-left: 300px;
-  height: 200px;
-  width: 1280px;
-  background-color: #E6E8E6;
-  float: left;
-}
