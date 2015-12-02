@@ -452,8 +452,9 @@ body {
 
 .nervous {
   margin-top: 700px;
-	height: 400px;
-	width: 600px;
+	height: 390px;
+	width: 590px;
+  border: 10px solid #000;
 	background-color: #E6E8E6;
 	float: left; 
 }
