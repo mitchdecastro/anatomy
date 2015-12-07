@@ -445,10 +445,9 @@ body {
 	height: 5500px;
 	width: 100%;
 	background-color: #FF2A25;
+  background-image: url(images/ana-t-omy_skeleton-big.png);
 	z-index: -1;
 }
-
-/* CHANGE GREYS TO OFF WHITE ORGANIC TONE */
 
 .system-left {
   font-size: 24px;
@@ -472,12 +471,21 @@ body {
   text-align: right;
 }
 
+.caption-left {
+  margin-left: 50px;
+}
+
+.caption-right {
+  margin-right: 40px;
+  text-align: right;
+}
+
 .nervous {
-  margin-top: 700px;
-	height: 390px;
+  margin-top: 425px;
+	height: 630px;
 	width: 890px;
-  border: 10px solid #000;
-	background-color: #E6E8E6;
+  /* border: 10px solid #000;
+	background-color: #E6E8E6; */
 	float: left; 
 }
 
