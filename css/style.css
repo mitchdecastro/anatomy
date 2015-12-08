@@ -484,8 +484,6 @@ body {
   margin-top: 425px;
 	height: 630px;
 	width: 890px;
-  /* border: 10px solid #000;
-	background-color: #E6E8E6; */
 	float: left; 
 }
 
@@ -493,8 +491,11 @@ body {
   margin-top: 75px;
 	height: 790px;
 	width: 1220px;
-	background-color: #E6E8E6;
 	float: right;
+}
+
+.endocrine .description-right {
+  margin-left: 100px;
 }
 
 .respiratory {
