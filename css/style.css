@@ -594,6 +594,7 @@ body {
   animation-iteration-count: infinite;
   animation-direction: alternate;
   float: left;
+  z-index: -1;
 }
 
 .flame{
