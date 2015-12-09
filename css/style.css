@@ -582,7 +582,8 @@ body {
 /* FUEGO CSS */
 
 .container{
-  margin:80px;
+  margin-top:80px;
+  margin-left: 50px;
   width: 60px;
   height: 60px;
   position:relative;
