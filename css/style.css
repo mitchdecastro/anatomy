@@ -507,9 +507,14 @@ body {
 }
 
 .respiratory {
+  margin-top: 200px;
   height: 824px;
   width: 1145px;
   float: left; 
+}
+
+.respiratory .description-left {
+  width: 300px;
 }
 
 .cardiovascular {
