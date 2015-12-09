@@ -450,6 +450,8 @@ body {
 
 .warning {
   font-size: 48px;
+  float: left;
+  text-align: center;
 }
 
 .system-left {
