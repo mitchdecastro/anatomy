@@ -441,7 +441,7 @@ body {
 }
 
 .box {
-	height: 5750px;
+	height: 6000px;
 	width: 100%;
 	background-color: #FF2A25;
   background-image: url(images/ana-t-omy_skeleton-big.png);
@@ -561,7 +561,7 @@ body {
 }
 
 .copyright {
-  margin-left: 100px;
+  margin-left: 400px;
   width: 354px;
   height: 418px;
   float: left;
