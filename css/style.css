@@ -507,14 +507,14 @@ body {
 }
 
 .respiratory {
-  height: 390px;
-  width: 890px;
+  height: 824px;
+  width: 1145px;
   float: left; 
 }
 
 .cardiovascular {
-  height: 390px;
-  width: 890px;
+  height: 824px;
+  width: 1145px;
   float: right;
 }
 
