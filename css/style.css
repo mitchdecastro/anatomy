@@ -443,7 +443,7 @@ body {
 }
 
 .box {
-	height: 8000px;
+	height: 10000px;
 	width: 100%;
 	background-color: #FF2A25;
   background-image: url(images/ana-t-omy_skeleton-big.png);
@@ -562,14 +562,14 @@ body {
 }
 
 .urinary {
-  margin-top: 150px;
+  margin-top: 145px;
   height: 941px;
   width: 1126px;
   float: right; 
 }
 
 .urinary .description-right {
-  margin-left: 600px;
+  margin-left: 700px;
 }
 
 .immune {
