@@ -539,10 +539,14 @@ body {
 }
 
 .digestive {
-  margin-top: 175px;
+  margin-top: 150px;
   height: 819px;
   width: 1045px;
   float: right;
+}
+
+.digestive .description-right {
+  margin-left: 735px;
 }
 
 .urinary {
