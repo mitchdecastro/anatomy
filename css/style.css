@@ -546,6 +546,7 @@ body {
 }
 
 .digestive .description-right {
+  width: 375px;
   margin-left: 650px;
 }
 
