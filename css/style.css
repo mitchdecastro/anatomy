@@ -441,7 +441,7 @@ body {
 }
 
 .box {
-	height: 5500px;
+	height: 5750px;
 	width: 100%;
 	background-color: #FF2A25;
   background-image: url(images/ana-t-omy_skeleton-big.png);
@@ -509,72 +509,53 @@ body {
 .respiratory {
   height: 390px;
   width: 890px;
-  border: 10px solid #000;
-  background-color: #E6E8E6;
   float: left; 
 }
 
 .cardiovascular {
   height: 390px;
   width: 890px;
-  border: 10px solid #000;
-  background-color: #E6E8E6;
   float: right;
 }
 
 .muscular {
   height: 390px;
   width: 890px;
-  border: 10px solid #000;
-  background-color: #E6E8E6;
   float: left; 
 }
 
 .digestive {
   height: 390px;
   width: 890px;
-  border: 10px solid #000;
-  background-color: #E6E8E6;
   float: right;
 }
 
 .urinary {
   height: 390px;
   width: 890px;
-  border: 10px solid #000;
-  background-color: #E6E8E6;
   float: right; 
 }
 
 .reproductive {
   height: 390px;
   width: 890px;
-  border: 10px solid #000;
-  background-color: #E6E8E6;
   float: left;
 }
 
 .immune {
   height: 390px;
   width: 890px;
-  border: 10px solid #000;
-  background-color: #E6E8E6;
   float: left; 
 }
 
 .skeletal {
   height: 390px;
   width: 890px;
-  border: 10px solid #000;
-  background-color: #E6E8E6;
   float: right;
 }
 
 .integumentary {
   height: 390px;
   width: 890px;
-  border: 10px solid #000;
-  background-color: #E6E8E6;
   float: left; 
 }
-
