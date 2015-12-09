@@ -525,7 +525,8 @@ body {
 }
 
 .cardiovascular .description-right {
-  margin-left: 735px;
+  width: 300px;
+  margin-left: 750px;
 }
 
 .muscular {
