@@ -557,9 +557,14 @@ body {
 }
 
 .reproductive {
+  margin-top: 300px;
   height: 536px;
   width: 1228px;
   float: left;
+}
+
+.reproductive .description-left {
+  width: 250px;
 }
 
 .immune {
