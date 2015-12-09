@@ -550,12 +550,6 @@ body {
   margin-left: 650px;
 }
 
-.urinary {
-  height: 941px;
-  width: 1126px;
-  float: right; 
-}
-
 .reproductive {
   margin-top: 200px;
   height: 536px;
@@ -565,6 +559,17 @@ body {
 
 .reproductive .description-left {
   width: 200px;
+}
+
+.urinary {
+  margin-top: 200px;
+  height: 941px;
+  width: 1126px;
+  float: right; 
+}
+
+.urinary .description-right {
+  margin-left: 600px;
 }
 
 .immune {
