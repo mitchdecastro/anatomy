@@ -524,6 +524,10 @@ body {
   float: right;
 }
 
+.cardiovascular .description-right {
+  margin-left: 735px;
+}
+
 .muscular {
   height: 390px;
   width: 890px;
