@@ -452,7 +452,7 @@ body {
   font-size: 72px;
   float: left;
   text-align: center;
-  margin-left: 375px;
+  margin-left: 175px;
   margin-top: 150px;
 }
 
@@ -488,14 +488,14 @@ body {
 }
 
 .nervous {
-  margin-top: 125px;
+  margin-top: 75px;
 	height: 630px;
 	width: 890px;
 	float: left; 
 }
 
 .endocrine {
-  margin-top: 125px;
+  margin-top: 75px;
 	height: 790px;
 	width: 1121px;
 	float: right;
