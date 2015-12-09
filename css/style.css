@@ -453,6 +453,7 @@ body {
   float: left;
   text-align: center;
   margin-left: 400px;
+  margin-top: 150px;
 }
 
 .system-left {
@@ -487,7 +488,7 @@ body {
 }
 
 .nervous {
-  margin-top: 275px;
+  margin-top: 125px;
 	height: 630px;
 	width: 890px;
 	float: left; 
