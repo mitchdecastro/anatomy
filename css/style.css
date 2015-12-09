@@ -519,19 +519,19 @@ body {
 
 .cardiovascular {
   margin-top: 100px;
-  height: 515px;
-  width: 1188px;
+  height: 824px;
+  width: 1145px;
   float: right;
 }
 
 .cardiovascular .description-right {
   width: 300px;
-  margin-left: 800px;
+  margin-left: 775px;
 }
 
 .muscular {
-  height: 390px;
-  width: 890px;
+  height: 515px;
+  width: 1188px;
   float: left; 
 }
 
@@ -579,10 +579,6 @@ body {
 }
 
 /* FUEGO CSS */
-
-body{
-  background:black;
-}
 
 .container{
   margin:80px auto;
