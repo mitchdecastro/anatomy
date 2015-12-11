@@ -605,6 +605,15 @@ body {
   float: left; 
 }
 
+.goodbye {
+  font-size: 72px;
+  float: left;
+  text-align: center;
+  margin-left: 225px;
+  margin-top: 150px;
+  letter-spacing: 1px;
+}
+
 .copyright {
   margin-top: 100px;
   margin-left: 475px;
