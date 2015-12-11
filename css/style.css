@@ -584,10 +584,14 @@ body {
 }
 
 .skeletal {
-  margin-top: 100px;
+  margin-top: 120px;
   height: 747px;
   width: 1075px;
   float: right;
+}
+
+.skeletal .description-right {
+  margin-left: 600px;
 }
 
 .integumentary {
