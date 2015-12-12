@@ -624,8 +624,8 @@ body {
 }
 
 .button:hover {
-  border: 20px solid black;
-  border-radius: 100px;
+  background-color:#F2EBDA;
+  color:#FF2A25;
 }
 
 .copyright {
