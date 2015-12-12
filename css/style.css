@@ -619,6 +619,11 @@ body {
   color: black;
 }
 
+.goodbye a:hover {
+  text-decoration: underline;
+  transition: 0.2s ease;
+}
+
 .copyright {
   margin-top: 200px;
   margin-left: 475px;
