@@ -621,7 +621,7 @@ body {
 }
 
 .button:hover {
-  color: #1E1E1E;
+  color: #282828;
   transition: 0.2s ease-in-out;
 }
 
