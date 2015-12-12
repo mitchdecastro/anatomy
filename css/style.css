@@ -617,11 +617,11 @@ body {
 
 .button {
   text-decoration: none;
-  color: #1E1E1E;
+  color: black;
 }
 
 .button:hover {
-  color: black;
+  color: #E6E8E6;
   transition: 0.2s ease-in-out;
 }
 
