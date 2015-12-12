@@ -615,6 +615,9 @@ body {
 }
 
 .goodbye a {
+  background-color: white;
+  height: 75px;
+  width: 300px;
   border: 20px solid black;
   border-radius: 100px;
   text-decoration: none;
