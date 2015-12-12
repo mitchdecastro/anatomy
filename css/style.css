@@ -626,6 +626,7 @@ body {
 .button:hover {
   background-color:#F2EBDA;
   color:#FF2A25;
+  transition: 0.2s ease;
 }
 
 .copyright {
