@@ -616,8 +616,8 @@ body {
 
 .button {
   height: 100px;
-  width: 350px;
-  border: 20px solid black;
+  width: 400px;
+  border: 15px solid black;
   border-radius: 100px;
   text-decoration: none;
   color: black;
