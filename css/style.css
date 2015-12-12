@@ -618,7 +618,7 @@ body {
   height: 100px;
   width: 800px;
   border: 15px solid black;
-  border-radius: 100px;
+  border-radius: 25px;
   text-decoration: none;
   color: black;
 }
