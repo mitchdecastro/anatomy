@@ -614,7 +614,7 @@ body {
   letter-spacing: 1px;
 }
 
-.goodbye a {
+.button {
   background-color: white;
   height: 75px;
   width: 300px;
@@ -624,7 +624,7 @@ body {
   color: black;
 }
 
-.goodbye a:hover {
+.button:hover {
   border: 20px solid black;
   border-radius: 100px;
   text-decoration: underline;
