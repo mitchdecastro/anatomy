@@ -438,6 +438,7 @@ Black: #1E1E1E;
 body {
   margin: 0 auto;
   font-family: Chewy, sans-serif;
+  color: #1E1E1E;
   width: 1280px;
   max-width: 1280px;
 }
@@ -615,18 +616,12 @@ body {
 }
 
 .button {
-  height: 100px;
-  width: 800px;
-  border: 5px solid black;
-  border-radius: 25px;
-  box-shadow: 10px solid black;
   text-decoration: none;
-  color: black;
+  color: 1E1E1E;
 }
 
 .button:hover {
-  background-color: black;
-  color: #FF2A25;
+  color: #E6E8E6;
   transition: 0.2s ease-in-out;
 }
 
